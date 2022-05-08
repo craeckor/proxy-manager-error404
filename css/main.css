@@ -58,7 +58,7 @@ html, body{
 }
 
 .bg-purple{
-    background: url(../img/bg_purple.png);
+    background: url(https://raw.githubusercontent.com/craeckor/proxy-manager-error404/main/img/bg_purple.png);
     background-repeat: repeat-x;
     background-size: cover;
     background-position: left top;
@@ -225,7 +225,7 @@ li a:hover {
 }
 
 .stars{
-    background: url(../img/overlay_stars.svg);
+    background: url(https://raw.githubusercontent.com/craeckor/proxy-manager-error404/main/img/overlay_stars.svg);
     background-repeat: repeat;
     background-size: contain;
     background-position: left top;
